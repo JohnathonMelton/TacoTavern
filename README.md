@@ -1,1 +1,1 @@
-# TacoTavern
+This is an updated version of the TacoShack project. This projects emphesis is on CSS. I've been adding a lot of instructional videos to my study time along with school. This was created during those study times. I use this not only to sharpen my skills, but also to use are reference. There is a lot when it comes to CSS, so having this small project as a tool to help me along is nice. 
